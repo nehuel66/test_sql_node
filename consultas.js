@@ -1,4 +1,4 @@
-
+//CONSULTAS.JS SEMANA 13
 import db from './conexion.js';
 
 
